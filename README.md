@@ -1,123 +1,149 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,45:1D4ED8,100:06B6D4&text=Brayan%20Espinosa%20Osorio&fontColor=FFFFFF&fontSize=39&fontAlignY=39&desc=Software%20Developer%20%7C%20Backend%20%7C%20Software%20Architecture&descAlignY=62&descSize=16&animation=fadeIn" alt="Banner de Brayan Espinosa Osorio" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=235&color=0:020617,45:0F172A,100:0C4A6E&text=BRAYAN%20ESPINOSA%20OSORIO&fontColor=F8FAFC&fontSize=38&fontAlignY=34&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20JAVA%20%26%20SPRING%20BOOT&descAlignY=57&descSize=15&animation=fadeIn" alt="Brayan Espinosa Osorio: Backend Developer y Software Engineering" />
 
-<a href="https://github.com/bespinosaosorio96-ship-it">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Brayan+%F0%9F%91%8B;Desarrollo+backend+y+APIs+REST;Java+%7C+Spring+Boot+%7C+Python;Arquitectura+de+software+y+bases+de+datos;Construyendo+soluciones+en+equipo" alt="Presentación animada de especialidades" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=790&height=54&lines=Building+reliable+backend+solutions;Java+%2B+Spring+Boot+%2B+SQL;REST+APIs+%7C+Security+%7C+Architecture;From+requirements+to+working+software" alt="Animación: backend, Java, Spring Boot y arquitectura" />
 
-<br />
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Enfoque backend engineering" />
+  <img src="https://img.shields.io/badge/STACK-JAVA%20%7C%20SPRING%20BOOT-3B82F6?style=for-the-badge&labelColor=0F172A" alt="Stack Java y Spring Boot" />
+  <img src="https://img.shields.io/badge/INTEREST-SOFTWARE%20ARCHITECTURE-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="Interés en arquitectura" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=bespinosaosorio96-ship-it&style=for-the-badge&color=2563EB&label=VISITAS+AL+PERFIL" alt="Contador de visitas" />
-<img src="https://img.shields.io/badge/Enfoque-Backend%20%26%20Arquitectura-0F172A?style=for-the-badge" alt="Enfoque en backend y arquitectura" />
+**[View projects](#-featured-projects)** · **[Tech stack](#-tech-stack)** · **[GitHub activity](#-github-activity)** · **[Contact](#-lets-connect)**
 
 </div>
 
-## 👨‍💻 Sobre mí
+---
 
-Soy **Brayan Espinosa Osorio**, desarrollador de software interesado en el **backend, el diseño de APIs, la arquitectura de software y las bases de datos**. Me gusta transformar requisitos en soluciones mantenibles y colaborar en equipos que aplican buenas prácticas de desarrollo.
+## 👋 About me / Sobre mí
 
-- 🔭 Trabajo con **Java, Spring Boot, Python** y tecnologías web.
-- 🧩 Me interesan la **programación orientada a objetos, MVC, la separación de responsabilidades y el diseño de sistemas**.
-- 🗃️ Exploro persistencia de datos, SQL y construcción de servicios backend.
-- 🤝 Participo en proyectos colaborativos y disfruto documentar soluciones.
-- 🌱 Continúo fortaleciendo mis habilidades en **arquitectura y desarrollo full stack**.
+**Soy Brayan Espinosa Osorio**, desarrollador de software enfocado en **backend con Java y Spring Boot**, integración de bases de datos y construcción de servicios. Disfruto trabajar en equipo, convertir requerimientos en funcionalidades verificables y mantener el código organizado, documentado y fácil de evolucionar.
 
-## 🛠️ Tecnologías y herramientas
+I focus on **backend development, REST APIs, data persistence and software design**. My public repositories show hands-on team projects across inventory management, sales systems and cultural-event administration.
+
+- **Backend:** Java, Spring Boot, REST, Spring Security, JWT y arquitectura por capas.
+- **Data:** SQL, MySQL, PostgreSQL, JDBC, JPA y modelado de datos.
+- **Software design:** POO, MVC, separación de responsabilidades, patrones de diseño y manejo de errores.
+- **Collaboration:** Git/GitHub, trabajo con equipos, documentación técnica y prácticas ágiles.
+- **Currently exploring:** arquitectura hexagonal, testing y mejores prácticas para servicios mantenibles.
+
+> **Lo que puedo aportar a un equipo:** implementación de lógica de negocio, integración de APIs y bases de datos, organización de código y comunicación técnica clara.  
+> **What I bring to a team:** backend implementation, database integration, code organization and collaborative delivery.
+
+## ⚡ Tech stack
 
 <div align="center">
 
-**Lenguajes y backend**
+| Backend & languages | Databases & persistence | Frontend & tooling |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,express&theme=dark" alt="Java, Spring, Python, JavaScript, TypeScript, Node and Express" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL and MongoDB" /> | <img src="https://skillicons.dev/icons?i=html,css,react,git,github,maven,postman&theme=dark" alt="HTML, CSS, React, Git, GitHub, Maven and Postman" /> |
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,express&theme=dark" alt="Java, Spring, Python, JavaScript, TypeScript, Node.js y Express" />
-
-**Datos y frontend**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,html,css,react,tailwind&theme=dark" alt="MySQL, PostgreSQL, MongoDB, HTML, CSS, React y Tailwind CSS" />
-
-**Herramientas de desarrollo**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,maven,postman,idea,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Maven, Postman, IntelliJ IDEA y VS Code" />
+<sub>Technologies used in projects and/or currently being developed; not a claim of equal proficiency in every tool.</sub>
 
 </div>
 
-## 🚀 Proyectos en los que colaboro
+## 🧩 Engineering approach
 
-Proyectos públicos compartidos en los que participo como integrante o colaborador. Las tecnologías y descripciones se basan en la documentación disponible de cada repositorio.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎭 CultuVivo</h3>
-      <p>Aplicación en Python para la gestión de eventos culturales, artistas y asistentes, con roles y persistencia en archivos JSON. Proyecto de equipo desarrollado con Scrum.</p>
-      <p><code>Python</code> <code>JSON</code> <code>Scrum</code></p>
-      <a href="https://github.com/luish-gonzalez/Proyecto_CultuVivo_LealShirlyGomezAndresEspinosaBrayanGonzalezLuis"><strong>Ver repositorio</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 TecnoStore</h3>
-      <p>Sistema de consola para administrar celulares, clientes, ventas e inventario. Incluye reportes, persistencia con MySQL/JDBC y aplicación de POO, MVC y patrones de diseño.</p>
-      <p><code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>MVC</code></p>
-      <a href="https://github.com/luish-gonzalez/Proyecto_TecnoStore_Java"><strong>Ver repositorio</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 LogiTrack · Spring Boot</h3>
-      <p>Aplicación web para productos, bodegas, movimientos e inventarios, con autenticación JWT, auditoría y documentación de API con Swagger/OpenAPI.</p>
-      <p><code>Spring Boot</code> <code>Spring Security</code> <code>PostgreSQL</code> <code>JWT</code></p>
-      <a href="https://github.com/luish-gonzalez/Proyecto_LogiTrack_SpringBoot"><strong>Ver repositorio</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏬 Gestión de Bodegas · LogiTrack</h3>
-      <p>Repositorio colaborativo de un proyecto Java con Spring Boot y Maven, enfocado en la gestión de bodegas. Desarrollo disponible en la rama <code>develop</code>.</p>
-      <p><code>Java</code> <code>Spring Boot</code> <code>Maven</code></p>
-      <a href="https://github.com/luish-gonzalez/Proyecto_SpringBoot_Gestion_Bodegas_Logitrack"><strong>Ver repositorio</strong></a>
-    </td>
-  </tr>
-</table>
-
-> 💡 Los proyectos colaborativos se enlazan a sus repositorios originales y se atribuyen a sus respectivos equipos.
-
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-<img width="53%" src="https://github-readme-stats.vercel.app/api?username=bespinosaosorio96-ship-it&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bespinosaosorio96-ship-it&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados en repositorios públicos" />
-
-<br />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bespinosaosorio96-ship-it&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad de contribuciones" />
-
-</div>
-
-<sub>Las tarjetas y los gráficos se generan mediante servicios externos; pueden tardar en cargar o mostrar únicamente estadísticas públicas.</sub>
-
-## 🧠 Lo que me interesa construir
-
-```text
-Requisitos y necesidades
-        |
-        v
-Modelado del dominio
-        |
-        v
-Arquitectura y diseño de APIs
-        |
-        v
-Lógica de negocio + persistencia
-        |
-        v
-Pruebas, documentación y mejora continua
+```mermaid
+flowchart LR
+    A["Business requirements"] --> B["Domain & API design"]
+    B --> C["Backend services"]
+    C --> D["Persistence & security"]
+    D --> E["Testing & documentation"]
+    E --> F["Iterate with the team"]
 ```
 
-## 🤝 Conectemos
+<details>
+<summary><b>🔎 What I care about when building software</b></summary>
+
+- Clear responsibilities between controllers, services, domain models and repositories.
+- Input validation, predictable error handling and secure access controls.
+- Consistent data models and reliable persistence.
+- Traceable requirements, readable pull requests and useful documentation.
+- Learning architecture patterns without adding unnecessary complexity.
+
+</details>
+
+---
+
+## 🚀 Featured projects
+
+<sub>Verified public collaborative repositories. Project ownership remains with the respective repository owners and teams.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📦 LogiTrack — Inventory Platform</h3>
+<p>Inventory, warehouse and logistics management application with an authenticated REST API, movement tracking and audit capabilities.</p>
+<p><strong>Engineering highlights:</strong> layered architecture, JWT authentication, PostgreSQL persistence and OpenAPI documentation.</p>
+<p><code>Java 17</code> <code>Spring Boot</code> <code>Spring Security</code> <code>JPA</code> <code>PostgreSQL</code></p>
+<a href="https://github.com/luish-gonzalez/Proyecto_LogiTrack_SpringBoot"><b>↗ Explore code & README</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>📱 TecnoStore — Sales & Stock</h3>
+<p>Console system for managing mobile phones, customers, sales and inventory, with business validation and reporting.</p>
+<p><strong>Engineering highlights:</strong> MVC, object-oriented design, JDBC/MySQL persistence, collections and design patterns.</p>
+<p><code>Java</code> <code>MVC</code> <code>MySQL</code> <code>JDBC</code> <code>POO</code></p>
+<a href="https://github.com/luish-gonzalez/Proyecto_TecnoStore_Java"><b>↗ Explore code & README</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎭 CultuVivo — Cultural Events</h3>
+<p>Collaborative Python application for cultural event scheduling, artist records and attendee registration.</p>
+<p><strong>Engineering highlights:</strong> role-based workflows, JSON persistence and a Scrum-based team sprint.</p>
+<p><code>Python</code> <code>JSON</code> <code>Scrum</code></p>
+<a href="https://github.com/luish-gonzalez/Proyecto_CultuVivo_LealShirlyGomezAndresEspinosaBrayanGonzalezLuis"><b>↗ Explore code & README</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🏬 LogiTrack — Warehouse Management</h3>
+<p>Additional collaborative Spring Boot repository focused on warehouse management and Java backend development.</p>
+<p><strong>Engineering highlights:</strong> Java application structure and Maven-based project setup, with work on the <code>develop</code> branch.</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>Maven</code></p>
+<a href="https://github.com/luish-gonzalez/Proyecto_SpringBoot_Gestion_Bodegas_Logitrack"><b>↗ Explore repository</b></a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/bespinosaosorio96-ship-it?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MORE%20PUBLIC%20REPOSITORIES-0EA5E9?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=white" alt="Explore more repositories" />
+</a>
+</div>
+
+## 📈 GitHub activity
 
 <div align="center">
 
-<a href="https://github.com/bespinosaosorio96-ship-it"><img src="https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visitar perfil de GitHub" /></a>
-<a href="https://github.com/bespinosaosorio96-ship-it?tab=repositories"><img src="https://img.shields.io/badge/Proyectos-Explorar-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios" /></a>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=bespinosaosorio96-ship-it&show_icons=true&theme=transparent&title_color=22D3EE&icon_color=818CF8&text_color=94A3B8&hide_border=true" alt="GitHub account statistics" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bespinosaosorio96-ship-it&layout=compact&theme=transparent&title_color=22D3EE&text_color=94A3B8&hide_border=true" alt="Language breakdown of public repositories" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:06B6D4,55:1D4ED8,100:0F172A" alt="Separador decorativo de cierre" />
+<br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bespinosaosorio96-ship-it&bg_color=0D1117&color=22D3EE&line=818CF8&point=F8FAFC&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+<img src="https://komarev.com/ghpvc/?username=bespinosaosorio96-ship-it&style=flat-square&color=0EA5E9&label=Profile+views" alt="Profile view counter" />
+
+</div>
+
+<sub>Stats use third-party renderers and are illustrative of public GitHub activity; they may sometimes be temporarily unavailable.</sub>
+
+## 🤝 Let's connect
+
+I'm interested in **backend engineering, Java/Spring Boot projects and collaborative software development**.
+
+<div align="center">
+
+<a href="https://github.com/bespinosaosorio96-ship-it">
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub profile" />
+</a>
+<a href="https://github.com/bespinosaosorio96-ship-it?tab=repositories">
+<img src="https://img.shields.io/badge/Portfolio-View%20repositories-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+</a>
+
+<br /><br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,45:1D4ED8,100:020617" alt="Blue gradient footer" />
 
 </div>
