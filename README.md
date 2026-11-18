@@ -138,8 +138,8 @@ I'm interested in **backend engineering, Java/Spring Boot projects and collabora
 <a href="https://github.com/bespinosaosorio96-ship-it">
 <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub profile" />
 </a>
-<a href="https://github.com/bespinosaosorio96-ship-it/portafolio">
-<img src="https://img.shields.io/badge/PORTAFOLIO-Ver%20proyecto-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Abrir el repositorio de mi portafolio web" />
+<a href="https://bespinosaosorio96-ship-it.github.io/portafolio/">
+<img src="https://img.shields.io/badge/PORTAFOLIO-Visitar%20sitio%20web-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Abrir mi portafolio web publicado" />
 </a>
 
 <br /><br />
