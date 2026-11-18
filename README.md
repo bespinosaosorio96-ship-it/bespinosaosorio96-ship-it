@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=235&color=0:020617,45:0F172A,100:0C4A6E&text=BRAYAN%20ESPINOSA%20OSORIO&fontColor=F8FAFC&fontSize=38&fontAlignY=34&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20JAVA%20%26%20SPRING%20BOOT&descAlignY=57&descSize=15&animation=fadeIn" alt="Brayan Espinosa Osorio: Backend Developer y Software Engineering" />
+<img width="100%" src="./assets/backend-banner.svg" alt="Brayan Espinosa Osorio | Backend Developer | Java, Spring Boot y APIs REST" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=790&height=54&lines=Building+reliable+backend+solutions;Java+%2B+Spring+Boot+%2B+SQL;REST+APIs+%7C+Security+%7C+Architecture;From+requirements+to+working+software" alt="Animación: backend, Java, Spring Boot y arquitectura" />
 
@@ -144,6 +144,6 @@ I'm interested in **backend engineering, Java/Spring Boot projects and collabora
 
 <br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,45:1D4ED8,100:020617" alt="Blue gradient footer" />
+<p><strong>⚡ Build • Learn • Collaborate • Improve</strong></p>
 
 </div>
